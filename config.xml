@@ -9,7 +9,7 @@
 <author href="http://www.todojujuy.com" email="info@todojujuy.com">
 MF
 </author>
-<description>Diario Digital - Jujuy, Argentina - Version 1.2.1</description>
+<description>Diario Digital - Jujuy, Argentina - Version 1.2.1 iOS</description>
 <gap:splash src="splash.png" />
 <gap:splash src="res/splash/ios/Default.png" width="320" height="480" />
 <gap:splash src="res/splash/ios/Default_at_2x.png" width="640" height="960" />
