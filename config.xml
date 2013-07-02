@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<widget xmlns = "http://www.w3.org/ns/widgets"
+    xmlns:gap = "http://phonegap.com/ns/1.0"
+    id        = "app.todojujuy.com"
+	versionCode = "129"
+    version   = "1.2.1">
+
+<name>TodoJujuy.com</name>
+<author href="http://www.todojujuy.com" email="info@todojujuy.com">
+MF
+</author>
+<description>Diario Digital - Jujuy, Argentina - Version 1.2.1</description>
+<gap:splash src="splash.png" />
+<gap:splash src="res/splash/ios/Default.png" width="320" height="480" />
+<gap:splash src="res/splash/ios/Default_at_2x.png" width="640" height="960" />
+<gap:splash src="res/splash/ios/Default_iphone5.png" width="640" height="1136" />
+<gap:splash src="res/splash/ios/Default-Landscape.png" width="1024" height="768" />
+<gap:splash src="res/splash/ios/Default-Portrait.png" width="768" height="1024" />
+<gap:splash src="res/splash/ios/Default-Landscape_at_2x.png" width="2048" height="1496" />
+<gap:splash src="res/splash/ios/Default-Portrait_at_2x.png" width="1536" height="2008" />
+
+<icon src="icon.png" />
+<icon src="icons/ios/icon.png" gap:platform="ios" width="57" height="57" />
+<icon src="icons/ios/ipad.png" gap:platform="ios" width="72" height="72" />
+<icon src="icons/ios/retina.png" gap:platform="ios" width="114" height="114" />
+<icon src="icons/ios/retina_ipad.png" gap:platform="ios" width="144" height="144" />
+
+<preference name="splash-screen-duration" value="6000" />
+<preference name="permissions" value="none" />
+<preference name="orientation" value="portrait" />
+<preference name="FadeSplashScreen" value="true" />
+<preference name="FadeSplashScreenDuration" value="2" />
+</widget>
